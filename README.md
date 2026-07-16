@@ -54,6 +54,6 @@ python3 app.py
 
 Then visit `http://127.0.0.1:5000` in your browser.
 
-## 👩‍💻 Developer
+## Developer
 
-Built by **Thelma Bangsi** — Kigali, Rwanda 🇷🇼
+Built by **Thelma Bangsi** — Kigali, Rwanda 
